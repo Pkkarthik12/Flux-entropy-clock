@@ -9,7 +9,7 @@ def run_entropy_loop():
     logger.remove()
     logger.add(sys.stderr, format="<green>{time:HH:mm:ss}</green> | <level>{level: <8}</level> | <cyan>{message}</cyan>")
     
-    logger.info("=== INITIALIZING ENTROPY CLOCK ===")
+    logger.info("=== INITIALIZING FLUX-ENTROPY CLOCK ===")
     
     ingestor = ChaosIngestor()
     engine = EntropyEngine()

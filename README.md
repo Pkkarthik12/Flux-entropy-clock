@@ -1,9 +1,9 @@
-# The Entropy Clock ⌛🌀
+# The Flux-Entropy Clock ⌛🌀
 
-The **Entropy Clock** is a robotic "anti-chronometer" that refuses to measure linear time. Instead, it measures the rate of decay and chaos in the world.
+The **Flux-Entropy Clock** is a robotic "anti-chronometer" that refuses to measure linear time. Instead, it measures the rate of decay and chaos in the world.
 
 ## The Concept
-Standard clocks use periodic oscillators (quartz, pendulums) to slice time into equal parts. The Entropy Clock does the opposite. It monitors high-entropy global data streams—stock market volatility, seismic shifts, atmospheric noise, and cosmic radiation—and uses an AI "Chaos Engine" to translate this randomness into kinetic movement. 
+Standard clocks use periodic oscillators (quartz, pendulums) to slice time into equal parts. The Flux-Entropy Clock does the opposite. It monitors high-entropy global data streams—stock market volatility, seismic shifts, atmospheric noise, and cosmic radiation—and uses an AI "Chaos Engine" to translate this randomness into kinetic movement. 
 
 The clock physically moves a sand-filled bed or a mechanical arm into patterns that represent the current state of global entropy. As the world becomes more chaotic, the clock speeds up its deconstruction; when the world is quiet, it slows to a crawl.
 
@@ -20,8 +20,8 @@ The clock physically moves a sand-filled bed or a mechanical arm into patterns t
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/entropy-clock.git
-cd entropy-clock
+git clone https://github.com/your-username/flux-entropy-clock.git
+cd flux-entropy-clock
 pip install -r requirements.txt
 ```
 

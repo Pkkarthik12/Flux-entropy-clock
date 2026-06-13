@@ -4,7 +4,7 @@ from loguru import logger
 class KineticDriver:
     def __init__(self):
         """
-        Controls the physical hardware (servos/steppers) of the Entropy Clock.
+        Controls the physical hardware (servos/steppers) of the Flux-Entropy Clock.
         """
         logger.info("Kinetic Hardware Driver connected to physical actuators.")
 
